@@ -2,6 +2,8 @@
 
 This project demonstrates a simple implementation of an automatic mailing system in Java using the JavaMail API. It sends an email from a Gmail account to a specified recipient.
 
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
